@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxfr/ThKLV9dmmpDNTQ50Eq4DU9hcZam6wGlVqL8/8DjYwTlV9r78K9k1NUEHr1+tRrB1bGbfYgCopv/RfF9TA==",
+  "success": true,
+  "projectFilePath": "/home/andrew/Документы/geekbrains/C_sharp/Lesson_001/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+  "expectedPackageFiles": [
+    "/home/andrew/.nuget/packages/microsoft.netcore.app.ref/6.0.3/microsoft.netcore.app.ref.6.0.3.nupkg.sha512",
+    "/home/andrew/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.3/microsoft.aspnetcore.app.ref.6.0.3.nupkg.sha512",
+    "/home/andrew/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.3/microsoft.netcore.app.host.linux-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
