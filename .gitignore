@@ -1,2 +1,4 @@
 # Ignoring system files and directories
 .vscode
+*/bin
+*/obj
