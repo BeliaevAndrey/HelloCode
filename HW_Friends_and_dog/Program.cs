@@ -27,4 +27,3 @@ double totalTime = (initDistance / (firstFriendSpeed + secondFriendSpeed)) / 60;
 Console.WriteLine("Общее время прогулки, часов: {0}", totalTime);
 double dogRunDistance = totalTime * 60 * 5 / 1000;  // Общее расстояние, которое пробежала собака, км
 Console.WriteLine("Расстояние, покытое собакой, км: {0}", dogRunDistance);
-
